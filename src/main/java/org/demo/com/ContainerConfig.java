@@ -1,4 +1,4 @@
-package org.dizzo.com;
+package org.demo.com;
 
 import org.apache.catalina.connector.Connector;
 import org.apache.coyote.ajp.AbstractAjpProtocol;
