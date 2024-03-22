@@ -1,4 +1,4 @@
-package org.dizzo.com;
+package org.demo.com;
 
 
 import org.springframework.boot.SpringApplication;
